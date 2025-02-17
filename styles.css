@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(231, 221, 178)
+}
+h1{
+color:maroon;
+} 
+p{
+    color:maroon;
+}
+img{
+    border-style: groove;
+    border-width: 10px;
+    border-color: maroon;
+}
+a{
+    color:maroon;
+    font-size: 22px;
+    text-decoration: none;
+}
