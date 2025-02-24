@@ -12,8 +12,28 @@ img{
     border-width: 10px;
     border-color: maroon;
 }
+img:hover {
+    border-style: dotted;
+    border-color:blue;
+}
 a{
     color:maroon;
     font-size: 22px;
     text-decoration: none;
+}
+#main-nav {
+    background-color: maroon;
+    text-align: center;
+    padding: 10px;
+
+}
+#main-nav a{
+    font-size: 18px;
+    color: black;
+    margin: 20px;
+}
+#main-nav a:hover {
+    text-decoration: underline;
+    color:blue;
+
 }
